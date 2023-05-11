@@ -10,4 +10,6 @@ Los UML, se componen de varios elementos gráficos para comformar un diagrama. E
 ## Diagrama de clases
 El diagrama de clases es de tipo estático, en este se describe la estrectura del sistema basado en clases, atributos y relaciones. El objetivo de un diagrama de clases es representar las clases del sistema en su fases de análisis y diseño para su posterir refinamiento en la fase de implementación.
 
-Las pespectiva de los 
+### Perspectiva de los los diagramas de clases:
+ 1. Conceptual : Representa los conceto de dominio y el objeto de estudio 
+ 2. 
