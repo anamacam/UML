@@ -83,5 +83,11 @@ Este tipo de relación se representa con una línea que une la clase agregada ju
 ## Composicion:
 Este tipo de relación se representa con una línea que une la clase agregada junto a sus clases componentes, del lado de la clase agregada tiene un rombo que representa la relación de agregación.
 
+![](https://manuel.cillero.es/wp-content/uploads/2013/11/tipos-asociacion.png)
+
+Referencias:
+https://manuel.cillero.es/doc/metodologia/metrica-3/tecnicas/diagrama-de-clases/
+
+
 
      
