@@ -25,6 +25,18 @@ El diagrama de clases es de tipo estático, en este se describe la estrectura de
 |:----------------------:	|
 |       -Atributos       	|
 | +Operaciones o Métodos 	| 
+
+## Clases abtractas:
+Se representan con un rectángulo dividido en tres áreas: la parte superior que contiene el nombre de calse, el aréa central con los atributos y la parte inferior las operaciones.
+
+|    Nombre de la Clase   |
+|:----------------------:	|
+| atributo: Tipo / atributo deribado|
+| +Operaciones o Métodos 	| 
+
+
+
+
 ```mermaid
 classDiagram
     Animal <|-- Duck
@@ -92,11 +104,9 @@ https://manuel.cillero.es/doc/metodologia/metrica-3/tecnicas/diagrama-de-clases/
 
 Los patrones de diseño son un plan de acción que define una solución a un problema recurrente. Los patrones de diseño se clasifican en tres campos generales:
 - *Patrones creacionales*: estos se encargan de solucionar los problemas que implican la creación de objetos y las instancias de dichos objetos en una jerarqiía de clases complejas para simplificarla y hacerla más entendible.
-  - Factory 
-  - Builder 
-- *Patrones estructurales*: Sirven para configurar relaciones entre objetos
-- *Patrones de comportamiento* : ayudadn a realizar interación de forma recursiva entre clases y objetos
-
-
+  - Singleton: garantiza que la clase tenga una unica instancia y un acceso global a ella.
+  - Factory Method: Es un método que permite crear instancias de un objeto encasulando la creacion de dicho objeto
+- *Patrones estructurales*: separan la interfaz de la implementación, se ocupan de las clases y los objetos para formar estructuras más complejas.
+- *Patrones de comportamiento* : Describe los objetos y clases implicadas y la comunicación entre ellos.
 
      
