@@ -88,6 +88,15 @@ Este tipo de relación se representa con una línea que une la clase agregada ju
 Referencias:
 https://manuel.cillero.es/doc/metodologia/metrica-3/tecnicas/diagrama-de-clases/
 
+## Patrones de diseño:
+
+Los patrones de diseño son un plan de acción que define una solución a un problema recurrente. Los patrones de diseño se clasifican en tres campos generales:
+- *Patrones creacionales*: estos se encargan de solucionar los problemas que implican la creación de objetos y las instancias de dichos objetos en una jerarqiía de clases complejas para simplificarla y hacerla más entendible.
+  - Factory 
+  - Builder 
+- *Patrones estructurales*: Sirven para configurar relaciones entre objetos
+- *Patrones de comportamiento* : ayudadn a realizar interación de forma recursiva entre clases y objetos
+
 
 
      
