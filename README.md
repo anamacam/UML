@@ -15,6 +15,7 @@ El diagrama de clases es de tipo estático, en este se describe la estructura de
  2. Especificación: Representa las interfaces y traza la estructura a modelar.
  3. Da una vista de las clases, pero sin implementación.
  
+ 
  ## Elementos del diagrama de clases:
   - Clases: son la unidad básica que traza el modelo   
   - Atributos: Son las características de la clase
@@ -27,22 +28,8 @@ El diagrama de clases es de tipo estático, en este se describe la estructura de
   - Objetos: Instancias de una clase
   - Artefactos : Representan la entidad concreta de un sistema
 
-
-|    Nombre de la Clase   	|
-|:----------------------:	|
-|       -Atributos       	|
-| +Operaciones o Métodos 	| 
-
 ## Clases abstractas:
 Se representan con un rectángulo dividido en tres áreas: la parte superior que contiene el nombre de clase, el área central con los atributos y la parte inferior las operaciones.
-
-
-|    Nombre de la Clase   |
-|:----------------------:	|
-| atributo: Tipo / atributo deribado|
-| +Operaciones o Métodos 	| 
-
-
 
 
 ```mermaid
@@ -74,6 +61,7 @@ classDiagram
   - Públicos: Cuando se quiere que sean visibles para todas las clases.
   - Privados: Cuando son visibles o accesibles para la misma clase.
   - Protegidos: cuando solo se pueden acceder desde la propia clase que los definen y heredan de él.
+  - 
 
 *Símbolos de modificadores de acceso*
 
@@ -112,12 +100,15 @@ Cada una de estas se representa con una línea que une las dos clases y tiene la
 3. Navegabilidad: Establece el vínculo y se representa con una flecha unidireccional o bidireccional 
 4. Multiplicidad: representa el número de instancias de la clase.
 
+
 [![Diagrama-relacion-de-asociacion-drawio.png](https://i.postimg.cc/nLWhzQZf/Diagrama-relacion-de-asociacion-drawio.png)](https://postimg.cc/QBp3YCHf)
 
 ## Herencia:
 En una relación de herencia las subclases heredan las características (atributos) y los comportamientos (métodos) de las superclases.
 ## Agregación:
 Este tipo de relación se representa con una línea que une la clase agregada junto a sus clases componentes, del lado de la clase agregada tiene un rombo que representa la relación de agregación.
+
+[![Diagrama-herencia-drawio.png](https://i.postimg.cc/vHTTR6jy/Diagrama-herencia-drawio.png)](https://postimg.cc/kBrqKDqY)
 
 ## Composición:
 Este tipo de relación se representa con una línea que une la clase agregada junto a sus clases componentes, del lado de la clase agregada tiene un rombo que representa la relación de agregación.
