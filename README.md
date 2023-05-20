@@ -111,8 +111,9 @@ En una relación de herencia las subclases heredan las características (atribut
 
 ## Agregación:
 
-Este tipo de relación se representa con una línea que une la clase agregada junto a sus clases componentes, del lado de la clase agregada tiene un rombo que representa la relación de agregación.
+Este tipo de relación se representa con una línea que une la clase agregada junto a sus clases componentes(composición débil), del lado de la clase agregada tiene un rombo de color blanco que representa la relación de agregación.
 
+[![Diagrama-relacion-de-agregacion-drawio.png](https://i.postimg.cc/Jz0W4fCH/Diagrama-relacion-de-agregacion-drawio.png)](https://postimg.cc/Yh5Pdy9t)
 
 
 ## Composición:
