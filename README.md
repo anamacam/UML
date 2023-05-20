@@ -106,9 +106,13 @@ Cada una de estas se representa con una línea que une las dos clases y tiene la
 ## Herencia:
 En una relación de herencia las subclases heredan las características (atributos) y los comportamientos (métodos) de las superclases.
 ## Agregación:
-Este tipo de relación se representa con una línea que une la clase agregada junto a sus clases componentes, del lado de la clase agregada tiene un rombo que representa la relación de agregación.
 
 [![Diagrama-herencia-drawio.png](https://i.postimg.cc/vHTTR6jy/Diagrama-herencia-drawio.png)](https://postimg.cc/kBrqKDqY)
+
+
+Este tipo de relación se representa con una línea que une la clase agregada junto a sus clases componentes, del lado de la clase agregada tiene un rombo que representa la relación de agregación.
+
+
 
 ## Composición:
 Este tipo de relación se representa con una línea que une la clase agregada junto a sus clases componentes, del lado de la clase agregada tiene un rombo que representa la relación de agregación.
