@@ -92,7 +92,7 @@ Cada una de estas se represnta con una línea que une las dos clases y tiene las
 3. Navegabilidad: Establece el vínculo y se representa con una flecha unidireccional o bidireccional 
 4. Multiplicidad: epresentan el número de instancias de la clase.
 
-[![Diagrama-relaciones.png](https://i.postimg.cc/P5n9Qffs/Diagrama-relaciones.png)](https://postimg.cc/0bZV8sJc)
+[![Diagrama-relacion-de-asociacion-drawio.png](https://i.postimg.cc/nLWhzQZf/Diagrama-relacion-de-asociacion-drawio.png)](https://postimg.cc/QBp3YCHf)
 
 ## Herencia:
 En una relación de herencia las subclases heredan las características (atributos) y los comportamientos (métodos) de las superclases.
