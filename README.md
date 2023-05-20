@@ -141,10 +141,10 @@ Los patrones de diseño son un plan de acción que define una solución a un pro
 - *Patrones de comportamiento* : Describe los objetos y clases implicadas y la comunicación entre ellos.
 
 Referencias:
+
 https://manuel.cillero.es/doc/metodologia/metrica-3/tecnicas/diagrama-de-clases/
-
-## Patrones de diseño:
-
+https://www.edrawsoft.com/es/article/uml-aggregation-vs-composition.html
+https://www.edrawsoft.com/es/article/uml-aggregation-vs-composition.html
 
 
      
