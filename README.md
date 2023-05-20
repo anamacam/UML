@@ -123,7 +123,7 @@ Cada una de estas se representa con una línea que une las dos clases y tiene la
 
 [![Diagrama-relacion-de-asociacion-drawio.png](https://i.postimg.cc/nLWhzQZf/Diagrama-relacion-de-asociacion-drawio.png)](https://postimg.cc/QBp3YCHf)
 
-## Herencia:
+## 1. Herencia:
 
 En una relación de herencia las subclases heredan las características (atributos) y los comportamientos (métodos) de las superclases.
 
@@ -131,14 +131,14 @@ En una relación de herencia las subclases heredan las características (atribut
 [![Diagrama-herencia-drawio.png](https://i.postimg.cc/vHTTR6jy/Diagrama-herencia-drawio.png)](https://postimg.cc/kBrqKDqY)
 
 
-## Agregación:
+## 2. Agregación:
 
 Este tipo de relación se representa con una línea que une la clase agregada junto a sus clases componentes(composición débil), del lado de la clase agregada tiene un rombo de color blanco que representa la relación de agregación.
 
 [![Diagrama-relacion-de-agregacion-drawio.png](https://i.postimg.cc/Jz0W4fCH/Diagrama-relacion-de-agregacion-drawio.png)](https://postimg.cc/Yh5Pdy9t)
 
 
-## Composición:
+## 3. Composición:
 
 Este tipo de relación se representa con una línea que une la clase agregada junto a sus clases componentes, del lado de la clase agregada tiene un rombo que representa la relación de agregación.
 
@@ -155,6 +155,18 @@ Este tipo de relación se representa con una línea que une la clase agregada ju
 | Los objetos enlazados son  indepentientes entre sí. | Los objetos enlazados son  altamente depentientes entre sí |
 | Se representan con una línea sólida y una ponta de flacha vacía | Es representado por una línea sólida con una punta de flecha rellena |
 | La agregación se define como  una relación "tiene-un" | La composición se define como una relación "parte-de" |
+
+## 4. Realización / Implementación
+Es ta relacionada con la relación entre interfaces y las clases de implementación
+
+## 5. Relación de composición
+
+Es la relación en que una vez el objeto general deja de existir, los otros objetos desaparecerán porque coexisten de forma inseparable
+
+## 6. Relación de dependencias
+
+Las dependecias se reflejan en una relación de uso, un cambio afectará las otras clases que dependan de estas.
+
 
 ## Patrones de Diseño
 
@@ -178,6 +190,10 @@ https://www.edrawsoft.com/es/article/uml-aggregation-vs-composition.html
 Curso de programación orientado a objetos
 
 http://www.itnuevolaredo.edu.mx/takeyas/apuntes/poo/Apuntes/04.-%20Clases%20Abstractas%20e%20Interfaces.pdf
+
+¿Cuáles Son Los Seis Tipos De Relaciones En Los Diagramas De Clases UML?
+
+https://blog.visual-paradigm.com/es/what-are-the-six-types-of-relationships-in-uml-class-diagrams/
 
 
      
