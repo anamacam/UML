@@ -28,9 +28,6 @@ El diagrama de clases es de tipo estático, en este se describe la estructura de
   - Objetos: Instancias de una clase
   - Artefactos : Representan la entidad concreta de un sistema
 
-## Clases abstractas:
-Se representan con un rectángulo dividido en tres áreas: la parte superior que contiene el nombre de clase, el área central con los atributos y la parte inferior las operaciones.
-
 
 ```mermaid
 classDiagram
@@ -56,12 +53,9 @@ classDiagram
     }
     
   ```
-  
+
  ## Control de acceso o visibilidad de los atributos o métodos:
-  - Públicos: Cuando se quiere que sean visibles para todas las clases.
-  - Privados: Cuando son visibles o accesibles para la misma clase.
-  - Protegidos: cuando solo se pueden acceder desde la propia clase que los definen y heredan de él.
-  - 
+  
 
 *Símbolos de modificadores de acceso*
 
@@ -73,7 +67,22 @@ classDiagram
 | Paquete | ~ |  |
 | Derivado | / |  |                                                                                                 	|                                                                                                          	                                                                |
  
-
+## Clases abstractas:
+- Tienen miemboros abtractos
+  - Deben ser implimentados en las clases deribadas
+- Obligan
+  - Herencia
+- Se representan
+  - Con letras itálicas
+- No permiten 
+- Permiten Instancias o creación de objetos de ellas
+   - Declarar variables y constantes
+   - Implementar métodos y propiedades
+  - Heredar
+    - Otras Calses
+    - Interfases 
+   
+Se representan con un rectángulo dividido en tres áreas: la parte superior que contiene el nombre de clase, el área central con los atributos y la parte inferior las operaciones.
 
   
 ## Relaciones entre clases
