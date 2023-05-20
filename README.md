@@ -18,7 +18,14 @@ El diagrama de clases es de tipo estático, en este se describe la estructura de
  ## Elementos del diagrama de clases:
   - Clases: son la unidad básica que traza el modelo   
   - Atributos: Son las características de la clase
-  - Métodos: son las operaciones.
+  - Métodos: son las operaciones, y cada una posee su propia línea.
+  - Señales: Son los símbolos que representan comunicación 
+  - Tipo de datos: pueden ser de tipo primitivo o enumeraciones
+  - Paquetes: Se utiliza para organizar clasificadores en un diagrama
+  - Interfaces: Un conjuto de atributos con comportamiento uniforme
+  - Enumeraciones: Representan tipos de datos definidos
+  - Objetos: Instancias de una clase
+  - Artefactos : Representan la entidad concreta de un sistema
 
 
 |    Nombre de la Clase   	|
