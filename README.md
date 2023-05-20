@@ -133,4 +133,6 @@ Los patrones de diseño son un plan de acción que define una solución a un pro
 - *Patrones estructurales*: separan la interfaz de la implementación, se ocupan de las clases y los objetos para formar estructuras más complejas.
 - *Patrones de comportamiento* : Describe los objetos y clases implicadas y la comunicación entre ellos.
 
+[![Diagrama-composicion-drawio.png](https://i.postimg.cc/W4QBbtsh/Diagrama-composicion-drawio.png)](https://postimg.cc/SXfTgS2h)
+
      
