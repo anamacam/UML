@@ -99,7 +99,7 @@ Las relaciones entre clases indican como se comunican los objetos entre sí:
 - Dependencia: relación de uso
 - Generalización: relación de herencia
 
-## Asociación: 
+## 1. Asociación: 
 
 Es una de las más utilizadas e indica que hay una conexión entre tipos de objetos. Existen cuatro tipos de asociaciones:
 - Asociaciones bidireccionales: pueden tener dos flechas i ninguna
@@ -123,7 +123,7 @@ Cada una de estas se representa con una línea que une las dos clases y tiene la
 
 [![Diagrama-relacion-de-asociacion-drawio.png](https://i.postimg.cc/nLWhzQZf/Diagrama-relacion-de-asociacion-drawio.png)](https://postimg.cc/QBp3YCHf)
 
-## 1. Herencia:
+## 2. Herencia:
 
 En una relación de herencia las subclases heredan las características (atributos) y los comportamientos (métodos) de las superclases.
 
@@ -131,14 +131,14 @@ En una relación de herencia las subclases heredan las características (atribut
 [![Diagrama-herencia-drawio.png](https://i.postimg.cc/vHTTR6jy/Diagrama-herencia-drawio.png)](https://postimg.cc/kBrqKDqY)
 
 
-## 2. Agregación:
+## 3. Agregación:
 
 Este tipo de relación se representa con una línea que une la clase agregada junto a sus clases componentes(composición débil), del lado de la clase agregada tiene un rombo de color blanco que representa la relación de agregación.
 
 [![Diagrama-relacion-de-agregacion-drawio.png](https://i.postimg.cc/Jz0W4fCH/Diagrama-relacion-de-agregacion-drawio.png)](https://postimg.cc/Yh5Pdy9t)
 
 
-## 3. Composición:
+## 4. Composición:
 
 Este tipo de relación se representa con una línea que une la clase agregada junto a sus clases componentes, del lado de la clase agregada tiene un rombo que representa la relación de agregación.
 
@@ -156,12 +156,8 @@ Este tipo de relación se representa con una línea que une la clase agregada ju
 | Se representan con una línea sólida y una ponta de flacha vacía | Es representado por una línea sólida con una punta de flecha rellena |
 | La agregación se define como  una relación "tiene-un" | La composición se define como una relación "parte-de" |
 
-## 4. Realización / Implementación
+## 5. Realización / Implementación
 Es ta relacionada con la relación entre interfaces y las clases de implementación
-
-## 5. Relación de composición
-
-Es la relación en que una vez el objeto general deja de existir, los otros objetos desaparecerán porque coexisten de forma inseparable
 
 ## 6. Relación de dependencias
 
