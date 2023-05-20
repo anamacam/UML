@@ -70,13 +70,14 @@ classDiagram
 
 *Símbolos de modificadores de acceso*
 
-|  Público  	| + 	|
-|:---------:	|:-:	|
-|  Privado  	| - 	|
-| Protegido 	| # 	|
-|  Paquete  	| ~ 	|
-| Derivado  	| / 	|
-
+| **Modificador** | **Símbolo** | **Tipo de acceso** |
+|---|:---:|:---:|
+| Público | + | Indica que see puede acceder al atributo o función desde cualquier lugar de la aplicación |
+| Privado | - | Se puede acceder al atributo o función únicamente desde la misma clase |
+| Protegido | # | Puede ser accedida únicamente desde la misma clase o desde las clases que hereden de ella, clases derivadas |
+| Paquete | ~ |  |
+| Derivado | / |  |                                                                                                 	|                                                                                                          	                                                                |
+ 
 
 
   
