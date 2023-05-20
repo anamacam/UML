@@ -163,6 +163,8 @@ Es ta relacionada con la relación entre interfaces y las clases de implementaci
 
 Las dependecias se reflejan en una relación de uso, un cambio afectará las otras clases que dependan de estas.
 
+[![Diagrama-dependecia-drawio.png](https://i.postimg.cc/Z5x3KV21/Diagrama-dependecia-drawio.png)](https://postimg.cc/4YnnWbJ5)
+
 
 ## Patrones de Diseño
 
