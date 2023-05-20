@@ -87,6 +87,7 @@ classDiagram
    
 Se representan con un rectángulo dividido en tres áreas: la parte superior que contiene el nombre de clase, el área central con los atributos y la parte inferior las operaciones.
 
+
 [![Diagrama-clases-abtractas-drawio.png](https://i.postimg.cc/Vv9C2vWx/Diagrama-clases-abtractas-drawio.png)](https://postimg.cc/GT2tycNK)
 
   
@@ -118,13 +119,16 @@ Cada una de estas se representa con una línea que une las dos clases y tiene la
 4. Multiplicidad: representa el número de instancias de la clase.
 
 
+
 [![Diagrama-relacion-de-asociacion-drawio.png](https://i.postimg.cc/nLWhzQZf/Diagrama-relacion-de-asociacion-drawio.png)](https://postimg.cc/QBp3YCHf)
 
 ## Herencia:
 
 En una relación de herencia las subclases heredan las características (atributos) y los comportamientos (métodos) de las superclases.
 
+
 [![Diagrama-herencia-drawio.png](https://i.postimg.cc/vHTTR6jy/Diagrama-herencia-drawio.png)](https://postimg.cc/kBrqKDqY)
+
 
 ## Agregación:
 
@@ -137,7 +141,9 @@ Este tipo de relación se representa con una línea que une la clase agregada ju
 
 Este tipo de relación se representa con una línea que une la clase agregada junto a sus clases componentes, del lado de la clase agregada tiene un rombo que representa la relación de agregación.
 
+
 [![Diagrama-composicion-drawio.png](https://i.postimg.cc/RhM44qTw/Diagrama-composicion-drawio.png)](https://postimg.cc/YGyJxrZS)
+
 
 ## Diferencias entre Composición y Agregación
 
