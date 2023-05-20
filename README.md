@@ -119,12 +119,10 @@ Este tipo de relación se representa con una línea que une la clase agregada ju
 ## Composición:
 Este tipo de relación se representa con una línea que une la clase agregada junto a sus clases componentes, del lado de la clase agregada tiene un rombo que representa la relación de agregación.
 
-![](https://manuel.cillero.es/wp-content/uploads/2013/11/tipos-asociacion.png)
+[![Diagrama-composicion-drawio.png](https://i.postimg.cc/RhM44qTw/Diagrama-composicion-drawio.png)](https://postimg.cc/YGyJxrZS)
 
-Referencias:
-https://manuel.cillero.es/doc/metodologia/metrica-3/tecnicas/diagrama-de-clases/
 
-## Patrones de diseño:
+##Patrones de Diseño
 
 Los patrones de diseño son un plan de acción que define una solución a un problema recurrente. Los patrones de diseño se clasifican en tres campos generales:
 - *Patrones creacionales*: estos se encargan de solucionar los problemas que implican la creación de objetos y las instancias de dichos objetos en una jerarquía de clases complejas para simplificarla y hacerla más entendible.
@@ -133,6 +131,11 @@ Los patrones de diseño son un plan de acción que define una solución a un pro
 - *Patrones estructurales*: separan la interfaz de la implementación, se ocupan de las clases y los objetos para formar estructuras más complejas.
 - *Patrones de comportamiento* : Describe los objetos y clases implicadas y la comunicación entre ellos.
 
-[![Diagrama-composicion-drawio.png](https://i.postimg.cc/W4QBbtsh/Diagrama-composicion-drawio.png)](https://postimg.cc/SXfTgS2h)
+Referencias:
+https://manuel.cillero.es/doc/metodologia/metrica-3/tecnicas/diagrama-de-clases/
+
+## Patrones de diseño:
+
+
 
      
