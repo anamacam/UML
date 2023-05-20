@@ -89,7 +89,7 @@ classDiagram
 Se representan con un rectángulo dividido en tres áreas: la parte superior que contiene el nombre de clase, el área central con los atributos y la parte inferior las operaciones.
 
 
-[![Diagrama-clases-abtractas-drawio.png](https://i.postimg.cc/Vv9C2vWx/Diagrama-clases-abtractas-drawio.png)](https://postimg.cc/GT2tycNK)
+[![Diagrama-clases-abtractas-drawio.png](https://i.postimg.cc/v8ks1XMS/Diagrama-clases-abtractas-drawio.png)](https://postimg.cc/Z08g28Wr)
 
   
 ## Relaciones entre clases:
