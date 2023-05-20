@@ -7,16 +7,18 @@ El modelado se utiliza en la construcción de software se utiliza para:
 
 Los UML, se componen de varios elementos gráficos para conformar un diagrama. Entre los diagramas de estructura existe el diagrama de clases donde se enfatizan los elementos que deben existir en el sistema.
 
-## Diagrama de clases
+## Diagrama de clases:
+
 El diagrama de clases es de tipo estático, en este se describe la estructura del sistema basado en clases, atributos y relaciones. El objetivo de un diagrama de clases es representar las clases del sistema en sus fases de análisis y diseño para su posterior refinamiento en la fase de implementación.
 
 ### Perspectiva de los diagramas de clases:
+
  1. Conceptual: Representa los concetos de dominio del objeto de estudio.
  2. Especificación: Representa las interfaces y traza la estructura a modelar.
  3. Da una vista de las clases, pero sin implementación.
  
- 
  ## Elementos del diagrama de clases:
+ 
   - Clases: son la unidad básica que traza el modelo   
   - Atributos: Son las características de la clase
   - Métodos: son las operaciones, y cada una posee su propia línea.
@@ -56,8 +58,8 @@ classDiagram
 
  ## Control de acceso o visibilidad de los atributos o métodos:
   
-
 *Símbolos de modificadores de acceso*
+
 
 | **Modificador** | **Símbolo** | **Tipo de acceso** |
 |---|:---:|:---:|
@@ -68,6 +70,7 @@ classDiagram
 | Derivado | / |  |                                                                                                 	|                                                                                                          	                                                                |
  
 ## Clases abstractas:
+
 - Tienen miemboros abtractos
   - Deben ser implimentados en las clases deribadas:
 - Obligan:
@@ -87,18 +90,21 @@ Se representan con un rectángulo dividido en tres áreas: la parte superior que
 [![Diagrama-clases-abtractas-drawio.png](https://i.postimg.cc/Vv9C2vWx/Diagrama-clases-abtractas-drawio.png)](https://postimg.cc/GT2tycNK)
 
   
-## Relaciones entre clases
+## Relaciones entre clases:
+
 Las relaciones entre clases indican como se comunican los objetos entre sí:
 - Asociación: conexión entre clases 
 - Dependencia: relación de uso
 - Generalización: relación de herencia
 
 ## Asociación: 
+
 Es una de las más utilizadas e indica que hay una conexión entre tipos de objetos. Existen cuatro tipos de asociaciones:
 - Asociaciones bidireccionales: pueden tener dos flechas i ninguna
 - Asociaciones unidireccionales: tienen una soloa flecha
 - Autoasociación: tienen una soloa flecha
 - Asociaciones de números múltiples: En esta relación se puede agregar un número a la línea de asociación para indicar la multiplicidad.
+
   - 1..1: uno a uno
   - 0..*: cero a muchos
   - 1..*:uno a muchos
@@ -128,6 +134,7 @@ Este tipo de relación se representa con una línea que une la clase agregada ju
 
 
 ## Composición:
+
 Este tipo de relación se representa con una línea que une la clase agregada junto a sus clases componentes, del lado de la clase agregada tiene un rombo que representa la relación de agregación.
 
 [![Diagrama-composicion-drawio.png](https://i.postimg.cc/RhM44qTw/Diagrama-composicion-drawio.png)](https://postimg.cc/YGyJxrZS)
