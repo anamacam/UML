@@ -81,11 +81,17 @@ Las relaciones entre clases indican como se comunican los objetos entre sí:
 - Dependencia: relación de uso
 - Generalización: relación de herencia
 
-## Asociación: es una de las más utilizadas e indica que hay una conexión entre tipos de objetos. Existen cuatro tipos de asociaciones:
-- Asociaciones bidireccionales
-- Asociaciones unidireccionales 
-- Autoasociación 
-- Asociaciones de números múltiples
+## Asociación: 
+Es una de las más utilizadas e indica que hay una conexión entre tipos de objetos. Existen cuatro tipos de asociaciones:
+- Asociaciones bidireccionales: pueden tener dos flechas i ninguna
+- Asociaciones unidireccionales: tienen una soloa flecha
+- Autoasociación: tienen una soloa flecha
+- Asociaciones de números múltiples: En esta relación se puede agregar un número a la línea de asociación para indicar la multiplicidad.
+  - 1..1: uno a uno
+  - 0..*: cero a muchos
+  - 1..*:uno a muchos
+  - 0..1: cero a uno
+  - m..n: al menos m, como máximo n (m<=n)
 
 Cada una de estas se representa con una línea que une las dos clases y tiene las siguientes características:
 1. Nombre de la asociación: se debe establecer un nombre de forma obligatoria
