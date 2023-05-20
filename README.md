@@ -78,7 +78,8 @@ classDiagram
 - Se representan:
   - Con letras itálicas
 - No permiten :
-- Permiten Instancias o creación de objetos de ellas :
+  - Instancias o crear objetos de ellas
+- Permiten:
    - Declarar variables y constantes
    - Implementar métodos y propiedades
   - Heredar :
