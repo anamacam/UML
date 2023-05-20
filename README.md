@@ -169,14 +169,6 @@ Las dependecias se reflejan en una relación de uso, un cambio afectará las otr
 [![Diagrama-dependecia-drawio.png](https://i.postimg.cc/Z5x3KV21/Diagrama-dependecia-drawio.png)](https://postimg.cc/4YnnWbJ5)
 
 
-## Patrones de Diseño
-
-Los patrones de diseño son un plan de acción que define una solución a un problema recurrente. Los patrones de diseño se clasifican en tres campos generales:
-- *Patrones creacionales*: estos se encargan de solucionar los problemas que implican la creación de objetos y las instancias de dichos objetos en una jerarquía de clases complejas para simplificarla y hacerla más entendible.
-  - *Singleton*: garantiza que la clase tenga una única instancia y un acceso global a ella.
-  - *Factory Method:* Es un método que permite crear instancias de un objeto encapsulando la creación de dicho objeto
-- *Patrones estructurales*: separan la interfaz de la implementación, se ocupan de las clases y los objetos para formar estructuras más complejas.
-- *Patrones de comportamiento* : Describe los objetos y clases implicadas y la comunicación entre ellos.
 
 Referencias:
 
