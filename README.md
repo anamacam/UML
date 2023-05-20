@@ -69,16 +69,16 @@ classDiagram
  
 ## Clases abstractas:
 - Tienen miemboros abtractos
-  - Deben ser implimentados en las clases deribadas
-- Obligan
+  - Deben ser implimentados en las clases deribadas:
+- Obligan:
   - Herencia
-- Se representan
+- Se representan:
   - Con letras itálicas
-- No permiten 
-- Permiten Instancias o creación de objetos de ellas
+- No permiten :
+- Permiten Instancias o creación de objetos de ellas :
    - Declarar variables y constantes
    - Implementar métodos y propiedades
-  - Heredar
+  - Heredar :
     - Otras Calses
     - Interfases 
    
