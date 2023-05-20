@@ -175,5 +175,9 @@ La comparación entre UML Asociación, Agregación y Composición
 
 https://www.edrawsoft.com/es/article/uml-aggregation-vs-composition.html
 
+Curso de programación orientado a objetos
+
+http://www.itnuevolaredo.edu.mx/takeyas/apuntes/poo/Apuntes/04.-%20Clases%20Abstractas%20e%20Interfaces.pdf
+
 
      
