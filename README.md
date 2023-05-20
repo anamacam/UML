@@ -84,6 +84,8 @@ classDiagram
    
 Se representan con un rectángulo dividido en tres áreas: la parte superior que contiene el nombre de clase, el área central con los atributos y la parte inferior las operaciones.
 
+[![Diagrama-clases-abtractas-drawio.png](https://i.postimg.cc/Vv9C2vWx/Diagrama-clases-abtractas-drawio.png)](https://postimg.cc/GT2tycNK)
+
   
 ## Relaciones entre clases
 Las relaciones entre clases indican como se comunican los objetos entre sí:
