@@ -156,10 +156,13 @@ Este tipo de relación se representa con una línea que une la clase agregada ju
 | Se representan con una línea sólida y una ponta de flacha vacía | Es representado por una línea sólida con una punta de flecha rellena |
 | La agregación se define como  una relación "tiene-un" | La composición se define como una relación "parte-de" |
 
-## 5. Realización / Implementación
+## 5. Realización / Implementación :
+
 Es ta relacionada con la relación entre interfaces y las clases de implementación
 
-## 6. Relación de dependencias
+[![Diagrama-implementcion-drawio.png](https://i.postimg.cc/mgKxky9y/Diagrama-implementcion-drawio.png)](https://postimg.cc/4Yv2FtBY)
+
+## 6. Relación de dependencias:
 
 Las dependecias se reflejan en una relación de uso, un cambio afectará las otras clases que dependan de estas.
 
