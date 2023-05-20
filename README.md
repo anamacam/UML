@@ -74,6 +74,11 @@ classDiagram
 |:---------:	|:-:	|
 |  Privado  	| - 	|
 | Protegido 	| # 	|
+|  Paquete  	| ~ 	|
+| Derivado  	| / 	|
+
+
+
   
 ## Relaciones entre clases
 Las relaciones entre clases indican como se comunican los objetos entre sí:
