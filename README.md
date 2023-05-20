@@ -121,8 +121,17 @@ Este tipo de relación se representa con una línea que une la clase agregada ju
 
 [![Diagrama-composicion-drawio.png](https://i.postimg.cc/RhM44qTw/Diagrama-composicion-drawio.png)](https://postimg.cc/YGyJxrZS)
 
+## Diferencias entre Composición y Agregación
 
-##Patrones de Diseño
+| **Agregación** | **Composición** |
+|---|:---:|
+| Un subconjunto de las asociaciones | Un subconjunto de la agregación  |
+| Un tipo de Asociación débil | Un tipo de asociación fuerte |
+| Los objetos enlazados son  indepentientes entre sí. | Los objetos enlazados son  altamente depentientes entre sí |
+| Se representan con una línea sólida y una ponta de flacha vacía | Es representado por una línea sólida con una punta de flecha rellena |
+| La agregación se define como  una relación "tiene-un" | La composición se define como una relación "parte-de" |
+
+## Patrones de Diseño
 
 Los patrones de diseño son un plan de acción que define una solución a un problema recurrente. Los patrones de diseño se clasifican en tres campos generales:
 - *Patrones creacionales*: estos se encargan de solucionar los problemas que implican la creación de objetos y las instancias de dichos objetos en una jerarquía de clases complejas para simplificarla y hacerla más entendible.
